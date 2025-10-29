@@ -1,0 +1,2 @@
+''' raising exceptions increases your code excution time and that can lead to slower excution in the program you are trying to build.
+so if excution speed matters in the app or the program you are building dont use exception raising '''
