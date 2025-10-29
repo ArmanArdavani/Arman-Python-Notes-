@@ -12,10 +12,6 @@ for num in numbers:   # it essentially gets every item in the sequnce of numbers
 
 
 
-
-
-
-
 #First case for loops
 for number in range(5):
     print("won")
@@ -44,4 +40,5 @@ print("4th case done")
 #Sixth Case (the third number in the range makes the numbers add up by that number)
 for number in range(1,10,3):
     print("won",number,(number)*".")
+
 print("5th case done")
